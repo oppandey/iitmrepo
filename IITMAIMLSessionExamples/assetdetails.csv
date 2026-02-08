@@ -1,0 +1,105 @@
+Asset ID,Asset Type,Purchase Date,Warranty Expiration Date,License Expiration Date,Current Status,Department
+A001,Laptop,25-03-2022,25-03-2025,,Active,Sales
+A002,Server,14-07-2021,14-07-2024,,In Repair,IT
+A003,Software,10-01-2023,,10-01-2025,Active,Sales
+A004,Laptop,05-11-2020,05-11-2025,,Active,Manufacturing
+A005,Laptop,22-05-2019,22-05-2022,,Active,Finance
+A006,Printer,30-08-2022,30-08-2025,,In Repair,Sales
+A007,Laptop,15-06-2021,15-06-2025,,Active,Accounting
+A008,Server,18-06-2023,18-06-2027,,Active,IT
+A009,Software,25-02-2023,,25-02-2026,Active,Sales
+A010,Router,10-09-2019,10-09-2022,,Retired,IT
+A011,Switch,05-04-2022,05-04-2025,,Active,Accounting
+A012,Printer,20-05-2022,20-05-2025,,In Repair,Finance
+A013,Laptop,30-03-2020,30-03-2023,,Active,Sales
+A014,Server,25-08-2022,25-08-2025,,Active,IT
+A015,Software,05-01-2023,,05-01-2027,Active,Accounting
+A016,Laptop,10-06-2022,10-06-2025,,Active,Warehouse
+A017,Laptop,15-08-2022,15-08-2025,,Active,Manufacturing
+A018,Printer,20-12-2022,20-12-2025,,In Repair,Finance
+A019,Laptop,25-04-2019,25-04-2022,,Active,Sales
+A020,Server,30-09-2022,30-09-2025,,Retired,Accounting
+A021,Software,15-05-2021,,15-05-2026,Active,Manufacturing
+A022,Router,10-11-2022,10-11-2026,,In Repair,IT
+A023,Switch,05-06-2019,05-06-2022,,Active,IT
+A024,Printer,20-06-2022,20-06-2025,,Active,Finance
+A025,Laptop,25-07-2022,25-07-2025,,Active,Warehouse
+A026,Server,10-01-2020,10-01-2023,,In Repair,IT
+A027,Software,15-08-2019,,15-08-2026,Active,Warehouse
+A028,Laptop,30-05-2022,30-05-2025,,Active,Accounting
+A029,Laptop,20-09-2024,20-09-2027,,Active,Manufacturing
+A030,Printer,25-02-2020,25-02-2023,,In Repair,Warehouse
+A031,Laptop,10-05-2019,10-05-2022,,Retired,Sales
+A032,Server,15-08-2022,15-08-2025,,Active,IT
+A033,Software,20-12-2021,,20-12-2026,Active,Accounting
+A034,Router,25-04-2020,25-04-2023,,Retired,Accounting
+A035,Laptop,30-07-2019,30-07-2022,,In Repair,Accounting
+A036,Printer,05-01-2022,05-01-2025,,Active,Sales
+A037,Laptop,10-06-2021,10-06-2024,,Active,Manufacturing
+A038,Server,15-10-2020,15-10-2023,,Retired,Manufacturing
+A039,Software,20-07-2022,,20-07-2027,Active,Finance
+A040,Router,25-10-2022,25-10-2025,,Active,Finance
+A041,Laptop,30-01-2025,30-01-2028,,Active,Warehouse
+A042,Printer,05-05-2020,05-05-2023,,Retired,Accounting
+A043,Laptop,10-08-2024,10-08-2027,,Active,Sales
+A044,Server,15-02-2022,15-02-2025,,In Repair,IT
+A045,Software,20-09-2022,,20-09-2027,Active,Manufacturing
+A046,Router,25-01-2020,25-01-2023,,Retired,IT
+A047,Switch,30-04-2022,30-04-2025,,Active,IT
+A048,Printer,05-04-2022,05-04-2025,,Active,Finance
+A049,Laptop,10-07-2023,10-07-2026,,Active,Manufacturing
+A050,Laptop,15-11-2020,15-11-2023,,Retired,Accounting
+A051,Laptop,25-03-2023,25-03-2026,,Active,Sales
+A052,Server,14-07-2021,14-07-2024,,Active,Purchasing
+A053,Software,10-01-2025,,10-01-2027,Active,Purchasing
+A054,Laptop,05-11-2023,05-11-2026,,Active,Accounting
+A055,Laptop,22-05-2019,22-05-2022,,Active,Purchasing
+A056,Printer,30-08-2022,30-08-2025,,In Repair,Sales
+A057,Laptop,15-12-2022,15-12-2025,,Active,Sales
+A058,Server,18-06-2023,18-06-2026,,Active,IT
+A059,Software,25-02-2023,,25-02-2025,Active,Finance
+A060,Router,10-09-2022,10-09-2025,,In Repair,IT
+A061,Switch,05-06-2022,05-06-2025,,Active,IT
+A062,Printer,20-11-2023,20-11-2026,,Active,Accounting
+A063,Laptop,30-03-2023,30-03-2026,,Active,Warehouse
+A064,Laptop,25-07-2022,25-07-2025,,In Repair,Accounting
+A065,Software,05-01-2023,,05-01-2025,Active,Warehouse
+A066,Laptop,10-06-2022,10-06-2025,,Active,Manufacturing
+A067,Switch,15-08-2021,15-08-2024,,Active,Finance
+A068,Printer,20-12-2020,20-12-2023,,In Repair,Accounting
+A069,Laptop,25-04-2019,25-04-2022,,Active,Sales
+A070,Server,30-09-2022,30-09-2025,,Retired,Manufacturing
+A071,Software,15-05-2021,,15-05-2023,Retired,Sales
+A072,Router,10-11-2022,10-11-2025,,In Repair,Accounting
+A073,Switch,05-06-2019,05-06-2022,,Retired,Accounting
+A074,Printer,20-06-2022,20-06-2025,,Active,Finance
+A075,Laptop,25-07-2023,25-07-2026,,Active,Finance
+A076,Server,10-01-2023,10-01-2026,,In Repair,Purchasing
+A077,Software,15-08-2022,,15-08-2027,Active,Accounting
+A078,Laptop,30-05-2022,30-05-2025,,Active,Accounting
+A079,Laptop,20-09-2024,20-09-2027,,Active,Purchasing
+A080,Printer,25-02-2020,25-02-2023,,Retired,Sales
+A081,Laptop,10-05-2024,10-05-2027,,Active,Sales
+A082,Laptop,15-08-2022,15-08-2025,,Active,Warehouse
+A088,Laptop,20-12-2021,20-12-2024,,Active,Purchasing
+A084,Laptop,25-04-2022,25-04-2025,,In Repair,Finance
+A085,Laptop,30-07-2019,30-07-2022,,Retired,Finance
+A086,Printer,05-05-2022,05-05-2025,,Active,Warehouse
+A087,Laptop,10-06-2021,10-06-2024,,Active,Accounting
+A088,Printer,15-10-2020,15-10-2023,,Retired,IT
+A089,Software,20-06-2022,,20-06-2027,Active,Manufacturing
+A090,Laptop,25-07-2022,25-07-2025,,Retired,Purchasing
+A091,Laptop,30-11-2021,30-11-2024,,Active,Finance
+A092,Printer,05-05-2024,05-05-2027,,In Repair,Manufacturing
+A093,Laptop,10-08-2019,10-08-2022,,Retired,Warehouse
+A099,Printer,15-07-2022,15-07-2025,,Active,IT
+A095,Software,20-09-2021,,20-09-2026,Retired,Sales
+A096,Printer,25-01-2025,25-01-2028,,Active,Purchasing
+A097,Laptop,30-08-2022,30-08-2025,,Active,Warehouse
+A098,Printer,05-06-2022,05-06-2025,,Active,Sales
+A099,Laptop,10-07-2024,10-07-2027,,Active,Finance
+A100,Laptop,15-11-2023,15-11-2026,,In Repair,Purchasing
+A101,Laptop,05-11-2020,05-11-2025,,Active,IT
+A102,Laptop,22-05-2019,22-05-2022,,Active,IT
+A103,Printer,30-08-2022,30-08-2025,,In Repair,Warehouse
+A104,Laptop,15-06-2021,15-06-2025,,Active,IT
