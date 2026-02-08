@@ -72,3 +72,24 @@ SCM - Source Control Management
 	- Git Steps
 		○ Download the Git SCM
 		○ Install and Configure [Credentials]
+
+SCM - Source Control Management
+	- Versioning/Mapping the Code changes
+	- Tracking New Features or Updates
+	- New Libs -> New Features 
+	- SCM Types
+		○ Distributed SCM(Git, GitLab, BitBucket, Azure Repos…) - Pull and Push
+		○ Centralized SCM(Tortoise SVN, SharePoint) - Check In and Check Out
+	- Git Steps
+		○ Download the Git SCM
+		○ Install and Configure [Credentials]
+
+Data Analysis
+	- Facts
+		○ Sales Number/Revenue Achieved - 10 CR
+	- Dimensions
+		○ Qtr, Location, Product, category, Gender
+		○ City, Country, Customer Segments
+	- Predictive Analytics
+	- Prescriptive Analytics
+
