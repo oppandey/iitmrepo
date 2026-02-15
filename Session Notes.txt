@@ -14,7 +14,7 @@ Python [High Level Programming Lang.]
 	- IDE/Environment 
 	- Packages/Modules/Classes/Functions
 		○ Base Resources 
-			§ Preexisting Libraries(Download)
+						◊ Preexisting Libraries(Download)
 			§ Custom Resources [Domain Specific]
 		○ End User Resources
 
@@ -73,17 +73,6 @@ SCM - Source Control Management
 		○ Download the Git SCM
 		○ Install and Configure [Credentials]
 
-SCM - Source Control Management
-	- Versioning/Mapping the Code changes
-	- Tracking New Features or Updates
-	- New Libs -> New Features 
-	- SCM Types
-		○ Distributed SCM(Git, GitLab, BitBucket, Azure Repos…) - Pull and Push
-		○ Centralized SCM(Tortoise SVN, SharePoint) - Check In and Check Out
-	- Git Steps
-		○ Download the Git SCM
-		○ Install and Configure [Credentials]
-
 Data Analysis
 	- Facts
 		○ Sales Number/Revenue Achieved - 10 CR
@@ -92,4 +81,3 @@ Data Analysis
 		○ City, Country, Customer Segments
 	- Predictive Analytics
 	- Prescriptive Analytics
-
